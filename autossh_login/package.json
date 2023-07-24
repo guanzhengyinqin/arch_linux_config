@@ -1,0 +1,18 @@
+{
+  "name": "autossh_login",
+  "version": "1.0.0",
+  "description": "自动登入脚本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "autossh",
+    "autologin"
+  ],
+  "author": "guanzheng",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.4.0"
+  }
+}
